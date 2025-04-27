@@ -2,6 +2,8 @@
 
 A curated platform to discover and compare the best online tools for design, development, productivity, AI, marketing, and more.
 
+![home](./home.jpg)
+![category](./category.jpg)
 ## Features
 
 - 🔍 Smart tool discovery and search
